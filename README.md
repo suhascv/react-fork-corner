@@ -15,12 +15,13 @@ npm install --save react-fork-corner
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'react-fork-corner'
+import ReactForkCorner from 'react-fork-corner'
 import 'react-fork-corner/dist/index.css'
+
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <ReactForkCorner link={"https://github.com/suhascv/react-fork-corner"} />
   }
 }
 ```
