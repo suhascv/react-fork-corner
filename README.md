@@ -4,6 +4,8 @@
 
 [![NPM](https://img.shields.io/npm/v/react-fork-corner.svg)](https://www.npmjs.com/package/react-fork-corner) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+> [Demo](https://suhascv.github.io/react-fork-corner/)
+
 ## Install
 
 ```bash
